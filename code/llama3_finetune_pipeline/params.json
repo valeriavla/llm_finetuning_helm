@@ -1,0 +1,25 @@
+{
+    "training": {
+      "per_device_train_batch_size": 1,
+      "per_device_eval_batch_size": 1,
+      "gradient_accumulation_steps": 4,
+      "warmup_steps": 2,
+      "max_steps": 50,
+      "learning_rate": 0.0002,
+      "fp16": false,
+      "logging_steps": 10,
+      "output_dir": "outputs",
+      "optim": "paged_adamw_8bit",
+      "max_seq_length": 1024,
+      "num_train_epochs": 2,
+      "evaluation_strategy":"steps"
+    },
+    "lora": {
+      "r": 8,
+      "target_modules": ["q_proj", "o_proj", "k_proj", "v_proj", "gate_proj", "up_proj", "down_proj"],
+      "task_type": "CAUSAL_LM"
+    },
+    "logs":{
+      "folder_path":"logs/"
+    }
+  }
