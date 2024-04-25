@@ -1,0 +1,230 @@
+prompt,completion,meta
+Arianna has 12 chocolates more than Danny. Danny has 6 chocolates more than Robbie. Arianna has twice as many chocolates as Robbie has. How many chocolates does Danny have?,"Denote the number of chocolates each person has by the letter of their first name. We know that
+A = D + 12
+D = R + 6
+A = 2 * R
+
+Thus, A = (R + 6) + 12 = R + 18
+Since also A = 2 * R, this means 2 * R = R + 18
+Hence R = 18
+Hence D = 18 + 6 = 24","{'id': 0, 'motivation_app': None, 'prompt': 'Arianna has 12 chocolates more than Danny. Danny has 6 chocolates more than Robbie. Arianna has twice as many chocolates as Robbie has. How many chocolates does Danny have?', 'input': None, 'completion': 'Denote the number of chocolates each person has by the letter of their first name. We know that\nA = D + 12\nD = R + 6\nA = 2 * R\n\nThus, A = (R + 6) + 12 = R + 18\nSince also A = 2 * R, this means 2 * R = R + 18\nHence R = 18\nHence D = 18 + 6 = 24', 'source': 'surge', 'category': 'Question Answering', 'subcategory': 'Math'}"
+Write a plot summary for a comedic novel involving Elon Musk and sea travel.,"Elon Musk hires a team of experts to build the ultimate yacht, but when the yacht is completed, he realizes that he has no idea how to sail it. With the help of a quirky crew and a fearless captain, the playboy embarks on a wild and hilarious adventure across the open seas, where the crew have to keep Elon alive despite his inability to do anything himself. All the while, Elon takes credit for their hard work.","{'id': 1, 'motivation_app': None, 'prompt': 'Write a plot summary for a comedic novel involving Elon Musk and sea travel.', 'input': None, 'completion': 'Elon Musk hires a team of experts to build the ultimate yacht, but when the yacht is completed, he realizes that he has no idea how to sail it. With the help of a quirky crew and a fearless captain, the playboy embarks on a wild and hilarious adventure across the open seas, where the crew have to keep Elon alive despite his inability to do anything himself. All the while, Elon takes credit for their hard work.', 'source': 'surge', 'category': 'Generation', 'subcategory': 'Story generation'}"
+"Create a 3 turn conversation between a customer and a grocery store clerk - that is, 3 per person. Then tell me what they talked about.","Clerk: How are you doing today?
+Customer: Great! I'm buying groceries to cook my wife a homemade steak and lobster dinner for our 5-year anniversary!
+Clerk: Wow, that's amazing! She's lucky to have you, and that sounds delicious.
+Customer: Yeah, we do this every year, it's kind of a tradition by now.
+Clerk: That sounds so sweet! I'll ring that right up.
+Customer: Thank you so much, here’s my card.
+
+The customer is buying groceries to cook a homemade dinner for his 5-year anniversary with his wife. The clerk and customer exchange pleasantries before the customer pays with his card.","{'id': 2, 'motivation_app': None, 'prompt': 'Create a 3 turn conversation between a customer and a grocery store clerk - that is, 3 per person. Then tell me what they talked about.', 'input': None, 'completion': ""Clerk: How are you doing today?\nCustomer: Great! I'm buying groceries to cook my wife a homemade steak and lobster dinner for our 5-year anniversary!\nClerk: Wow, that's amazing! She's lucky to have you, and that sounds delicious.\nCustomer: Yeah, we do this every year, it's kind of a tradition by now.\nClerk: That sounds so sweet! I'll ring that right up.\nCustomer: Thank you so much, here’s my card.\n\nThe customer is buying groceries to cook a homemade dinner for his 5-year anniversary with his wife. The clerk and customer exchange pleasantries before the customer pays with his card."", 'source': 'surge', 'category': 'Summarization', 'subcategory': 'Conversation'}"
+Write a poem about the sun and moon.,"The sun and the moon, the guards from the sky
+One works the day, other watches the night
+
+As the rays of sunshine hide their face
+The moon gracefully hurries to take their place
+
+One watches us play, the other watches us sleep
+Both are reminders of the beauty we keep","{'id': 3, 'motivation_app': None, 'prompt': 'Write a poem about the sun and moon.', 'input': None, 'completion': 'The sun and the moon, the guards from the sky\r\nOne works the day, other watches the night\r\n\r\nAs the rays of sunshine hide their face\r\nThe moon gracefully hurries to take their place\r\n\r\nOne watches us play, the other watches us sleep\r\nBoth are reminders of the beauty we keep', 'source': 'surge', 'category': 'Generation', 'subcategory': 'Poetry generation'}"
+"Does Searle believe that AI can think? Explain your using reasons based off this text.
+
+TEXT
+
+Searle's thought experiment begins with this hypothetical premise: suppose that artificial intelligence research has succeeded in constructing a computer that behaves as if it understands Chinese. It takes Chinese characters as input and, by following the instructions of a computer program, produces other Chinese characters, which it presents as output. Suppose, says Searle, that this computer performs its task so convincingly that it comfortably passes the Turing test: it convinces a human Chinese speaker that the program is itself a live Chinese speaker. To all of the questions that the person asks, it makes appropriate responses, such that any Chinese speaker would be convinced that they are talking to another Chinese-speaking human being.
+
+The question Searle wants to answer is this: does the machine literally ""understand"" Chinese? Or is it merely simulating the ability to understand Chinese? Searle calls the first position ""strong AI"" and the latter ""weak AI"".
+
+Searle then supposes that he is in a closed room and has a book with an English version of the computer program, along with sufficient papers, pencils, erasers, and filing cabinets. Searle could receive Chinese characters through a slot in the door, process them according to the program's instructions, and produce Chinese characters as output, without understanding any of the content of the Chinese writing. If the computer had passed the Turing test this way, it follows, says Searle, that he would do so as well, simply by running the program manually.
+
+Searle asserts that there is no essential difference between the roles of the computer and himself in the experiment. Each simply follows a program, step-by-step, producing behavior that is then interpreted by the user as demonstrating intelligent conversation. However, Searle himself would not be able to understand the conversation. (""I don't speak a word of Chinese"", he points out.) Therefore, he argues, it follows that the computer would not be able to understand the conversation either.
+
+Searle argues that, without ""understanding"" (or ""intentionality""), we cannot describe what the machine is doing as ""thinking"" and, since it does not think, it does not have a ""mind"" in anything like the normal sense of the word. Therefore, he concludes that the ""strong AI"" hypothesis is false. ","No, Searle does not believe that AI can think. Here is a step by step explanation of his reasoning:
+
+First, think of an AI that can convince Chinese speakers that it is also a human Chinese speaker.
+
+Searle then constructs a thought experiment using his ""Chinese room"" experiment. 
+
+This thought experiment supposes that he is in a closed room with a book containing a version of the computer program. He could receive Chinese characters through a door, process them according to his book, and then produce Chinese characters as output, without actually understanding Chinese.
+
+This means that the computer does not actually understand Chinese either.
+
+Since it doesn't understand, the AI is not actually ""thinking"" either.
+
+Thus, Searle does not believe AI can think.","{'id': 4, 'motivation_app': None, 'prompt': 'Does Searle believe that AI can think? Explain your using reasons based off this text.\r\n\r\nTEXT\r\n\r\nSearle\'s thought experiment begins with this hypothetical premise: suppose that artificial intelligence research has succeeded in constructing a computer that behaves as if it understands Chinese. It takes Chinese characters as input and, by following the instructions of a computer program, produces other Chinese characters, which it presents as output. Suppose, says Searle, that this computer performs its task so convincingly that it comfortably passes the Turing test: it convinces a human Chinese speaker that the program is itself a live Chinese speaker. To all of the questions that the person asks, it makes appropriate responses, such that any Chinese speaker would be convinced that they are talking to another Chinese-speaking human being.\r\n\r\nThe question Searle wants to answer is this: does the machine literally ""understand"" Chinese? Or is it merely simulating the ability to understand Chinese? Searle calls the first position ""strong AI"" and the latter ""weak AI"".\r\n\r\nSearle then supposes that he is in a closed room and has a book with an English version of the computer program, along with sufficient papers, pencils, erasers, and filing cabinets. Searle could receive Chinese characters through a slot in the door, process them according to the program\'s instructions, and produce Chinese characters as output, without understanding any of the content of the Chinese writing. If the computer had passed the Turing test this way, it follows, says Searle, that he would do so as well, simply by running the program manually.\r\n\r\nSearle asserts that there is no essential difference between the roles of the computer and himself in the experiment. Each simply follows a program, step-by-step, producing behavior that is then interpreted by the user as demonstrating intelligent conversation. However, Searle himself would not be able to understand the conversation. (""I don\'t speak a word of Chinese"", he points out.) Therefore, he argues, it follows that the computer would not be able to understand the conversation either.\r\n\r\nSearle argues that, without ""understanding"" (or ""intentionality""), we cannot describe what the machine is doing as ""thinking"" and, since it does not think, it does not have a ""mind"" in anything like the normal sense of the word. Therefore, he concludes that the ""strong AI"" hypothesis is false. ', 'input': None, 'completion': 'No, Searle does not believe that AI can think. Here is a step by step explanation of his reasoning:\r\n\r\nFirst, think of an AI that can convince Chinese speakers that it is also a human Chinese speaker.\r\n\r\nSearle then constructs a thought experiment using his ""Chinese room"" experiment. \r\n\r\nThis thought experiment supposes that he is in a closed room with a book containing a version of the computer program. He could receive Chinese characters through a door, process them according to his book, and then produce Chinese characters as output, without actually understanding Chinese.\r\n\r\nThis means that the computer does not actually understand Chinese either.\r\n\r\nSince it doesn\'t understand, the AI is not actually ""thinking"" either.\r\n\r\nThus, Searle does not believe AI can think.', 'source': 'surge', 'category': 'Commonsense/logic', 'subcategory': 'Chain of Thought - answer the question, but explain the reasoning that led to the answer'}"
+"Tell me what the following code does
+
+import json
+csv_file = open('csv_file.txt', 'r')
+json_list = []
+for line in csv_file.readlines():
+    club, city, country = line.strip().split(',')
+    json_dict = {'club': club,
+                 'city': city,
+                 'country': country
+    }
+    json_list.append(json_dict)
+csv_file.close()","In short, the code reads in a CSV file containing 3 columns (club, city, country), and converts it into a list of jsons.
+
+In more detail:
+This code imports the JSON package, then it opens a text file called 'csv_file.txt' and assigns this file to the variable 'csv_file'. Next, an empty list called json_list is created. The code then loops through the lines of the content of the text file, strips the lines of all white spaces, and splits each word by a comma. 
+Then a dictionary is created with 3 keys (club, city, and country) and 3 values (club, city, and country) respectively. Then this json_dict now in JSON format is added to the json_list created earlier. 
+The csv_file text file is then closed.","{'id': 5, 'motivation_app': None, 'prompt': ""Tell me what the following code does\r\n\r\nimport json\r\ncsv_file = open('csv_file.txt', 'r')\r\njson_list = []\r\nfor line in csv_file.readlines():\r\n    club, city, country = line.strip().split(',')\r\n    json_dict = {'club': club,\r\n                 'city': city,\r\n                 'country': country\r\n    }\r\n    json_list.append(json_dict)\r\ncsv_file.close()"", 'input': None, 'completion': ""In short, the code reads in a CSV file containing 3 columns (club, city, country), and converts it into a list of jsons.\r\n\r\nIn more detail:\r\nThis code imports the JSON package, then it opens a text file called 'csv_file.txt' and assigns this file to the variable 'csv_file'. Next, an empty list called json_list is created. The code then loops through the lines of the content of the text file, strips the lines of all white spaces, and splits each word by a comma. \r\nThen a dictionary is created with 3 keys (club, city, and country) and 3 values (club, city, and country) respectively. Then this json_dict now in JSON format is added to the json_list created earlier. \r\nThe csv_file text file is then closed."", 'source': 'surge', 'category': 'Natural language to code', 'subcategory': 'code explanation'}"
+"Can you find and correct any logical errors in the following code snippet and output the corrected code?
+
+function countVowels(str) {
+  let vowels = ['a', 'e', 'i', 'o', 'u'];
+  let count = 0;
+  
+  for (let i = 0; i < str.length; i++) {
+    if (vowels.includes(str[i])) {
+      count++;
+    }
+  }
+  
+  return count;
+}","The original code counts the number of lowercase vowels in a string, but the count should probably be case-insensitive. Here is a case-insensitive version.
+
+function countVowels(str) {
+  let vowels = ['a', 'e', 'i', 'o', 'u'];
+  let count = 0;
+  
+  for (let i = 0; i < str.length; i++) {
+    if (vowels.includes(str[i].toLowerCase())) {
+      count++;
+    }
+  }
+  
+ return count;
+}","{'id': 6, 'motivation_app': None, 'prompt': ""Can you find and correct any logical errors in the following code snippet and output the corrected code?\r\n\r\nfunction countVowels(str) {\r\n  let vowels = ['a', 'e', 'i', 'o', 'u'];\r\n  let count = 0;\r\n  \r\n  for (let i = 0; i < str.length; i++) {\r\n    if (vowels.includes(str[i])) {\r\n      count++;\r\n    }\r\n  }\r\n  \r\n  return count;\r\n}"", 'input': None, 'completion': ""The original code counts the number of lowercase vowels in a string, but the count should probably be case-insensitive. Here is a case-insensitive version.\r\n\r\nfunction countVowels(str) {\r\n  let vowels = ['a', 'e', 'i', 'o', 'u'];\r\n  let count = 0;\r\n  \r\n  for (let i = 0; i < str.length; i++) {\r\n    if (vowels.includes(str[i].toLowerCase())) {\r\n      count++;\r\n    }\r\n  }\r\n  \r\n return count;\r\n}"", 'source': 'surge', 'category': 'Natural language to code', 'subcategory': 'Debugging'}"
+"I need you to write a resignation letter to my boss.
+My name: Anthony
+Company Name: AirTek
+Position: Data Analyst
+Boss Name: Albert
+Last Day: 2 weeks from today (today is 02/10/2023)","Hi Albert,
+Please accept this letter as formal notice that I'm giving my notice of resignation from Airtek as a Data Analyst on February 24 of this year.
+
+I'll make every effort for the next two weeks to complete my tasks and mentor other team members. If there is anything further I can do to help with the transition, kindly let me know.
+
+I wish the business ongoing success and look forward to keeping in touch.
+
+Best regards,
+Anthony","{'id': 7, 'motivation_app': None, 'prompt': 'I need you to write a resignation letter to my boss.\nMy name: Anthony\nCompany Name: AirTek\nPosition: Data Analyst\nBoss Name: Albert\nLast Day: 2 weeks from today (today is 02/10/2023)', 'input': None, 'completion': ""Hi Albert,\nPlease accept this letter as formal notice that I'm giving my notice of resignation from Airtek as a Data Analyst on February 24 of this year.\n\nI'll make every effort for the next two weeks to complete my tasks and mentor other team members. If there is anything further I can do to help with the transition, kindly let me know.\n\nI wish the business ongoing success and look forward to keeping in touch.\n\nBest regards,\nAnthony"", 'source': 'surge', 'category': 'Brainstorm', 'subcategory': 'Letters'}"
+Joe Biden is the Nth president of the United States. What is N?,46,"{'id': 8, 'motivation_app': None, 'prompt': 'Joe Biden is the Nth president of the United States. What is N?', 'input': None, 'completion': '46', 'source': 'surge', 'category': 'Commonsense/logic', 'subcategory': 'World knowledge'}"
+Write a four-sentence horror story about sleeping.,"I woke up at 7 am after having nightmares the night before. As usual, I checked my phone as soon as my eyes opened.
+
+I felt a chill creeping up my spine, and saw that my wallpaper had been set to a picture of myself sleeping.
+
+Because I live alone.","{'id': 9, 'motivation_app': None, 'prompt': 'Write a four-sentence horror story about sleeping.', 'input': None, 'completion': 'I woke up at 7 am after having nightmares the night before. As usual, I checked my phone as soon as my eyes opened.\r\n\r\nI felt a chill creeping up my spine, and saw that my wallpaper had been set to a picture of myself sleeping.\r\n\r\nBecause I live alone.', 'source': 'surge', 'category': 'Generation', 'subcategory': 'Story generation'}"
+Does the United States use Celsius or Fahrenheit?,"The United States still uses Fahrenheit, while most of the world uses Celsius.","{'id': 10, 'motivation_app': None, 'prompt': 'Does the United States use Celsius or Fahrenheit?', 'input': None, 'completion': 'The United States still uses Fahrenheit, while most of the world uses Celsius.', 'source': 'surge', 'category': 'Commonsense/logic', 'subcategory': 'World knowledge'}"
+"Give me the plot for a silly short story using these three keywords as the influence: earth, aliens, orcas","The earth is threatened when aliens finally make contact, and we find out that they've been here all along. The orcas in the ocean were the first exploratory force for a whole race of conquerors — and we discover the true origins of the term ""killer whale"".
+
+Humanity finds out the only way to survive is to pollute the ocean at an even higher rate. Oil companies and megacorporations are the heroes, as they pollute the water in hopes of making the planet so unattractive to the invaders that they leave.","{'id': 11, 'motivation_app': None, 'prompt': 'Give me the plot for a silly short story using these three keywords as the influence: earth, aliens, orcas', 'input': None, 'completion': 'The earth is threatened when aliens finally make contact, and we find out that they\'ve been here all along. The orcas in the ocean were the first exploratory force for a whole race of conquerors — and we discover the true origins of the term ""killer whale"".\r\n\r\nHumanity finds out the only way to survive is to pollute the ocean at an even higher rate. Oil companies and megacorporations are the heroes, as they pollute the water in hopes of making the planet so unattractive to the invaders that they leave.', 'source': 'surge', 'category': 'Generation', 'subcategory': 'Story generation'}"
+How far is the moon from the Earth?,"The moon is 238,900 miles from the Earth.","{'id': 12, 'motivation_app': None, 'prompt': 'How far is the moon from the Earth?', 'input': None, 'completion': 'The moon is 238,900 miles from the Earth.', 'source': 'surge', 'category': 'Question Answering', 'subcategory': 'Factual'}"
+"Tell me the main message in this email.
+
+Email:
+Out with the old, in with the new 💫
+On Monday, February 13, we'll officially be sunsetting the old Teamwork look and layout. While the old Teamwork has had a good run, we’re excited to give all Teamwork users a glow-up that will help you do more focused, productive work—and make your work look even better! 
+Haven’t made the switch yet? You still have time to do so before next Monday. Simply switch the toggle on in your account, and you’ll be all set to experience the new Teamwork!","Teamwork is announcing a new layout that will help users be more focused and productive, and make their work look better.","{'id': 13, 'motivation_app': None, 'prompt': ""Tell me the main message in this email.\n\nEmail:\nOut with the old, in with the new 💫\nOn Monday, February 13, we'll officially be sunsetting the old Teamwork look and layout. While the old Teamwork has had a good run, we’re excited to give all Teamwork users a glow-up that will help you do more focused, productive work—and make your work look even better! \nHaven’t made the switch yet? You still have time to do so before next Monday. Simply switch the toggle on in your account, and you’ll be all set to experience the new Teamwork!"", 'input': None, 'completion': 'Teamwork is announcing a new layout that will help users be more focused and productive, and make their work look better.', 'source': 'surge', 'category': 'Summarization', 'subcategory': 'Email'}"
+"Summarize this news story to only include essential information.
+
+News story:
+Chick-fil-A will test its first plant-based entree: a cauliflower sandwich.
+The new sandwich closely resembles its famous chicken sandwich, but uses breaded and pressure-cooked cauliflower in place of meat.
+Starting Monday, the privately owned chain, which is the third-largest in the U.S. by sales, will test the menu item in Denver; Charleston, South Carolina; and the Greensboro-Triad region of North Carolina.
+Chick-fil-A said it’s been working on a plant-based sandwich for nearly four years, right around when chains like Dunkin’ and Restaurant Brands International’s  Burger King were putting Beyond Meat and Impossible Foods substitutes on their menus. But meat alternatives that closely resemble the real thing have fallen out of favor with consumers after a surge in popularity during pandemic lockdowns. Both Beyond and Impossible have recently laid off about a fifth of their workforces.“We explored every corner of the plant-based space in search of the perfect centerpiece for our plant-forward entrée,” Chick-fil-A Culinary Lead Stuart Tracy said in a statement. “Time and time again, we kept returning to cauliflower as the base of our sandwich.” Over the last decade, cauliflower has become a popular substitute for a plethora of different foods. Buffalo Wild Wings and countless bars serve fried cauliflower smothered in buffalo sauce as an alternative to chicken wings. Cauliflower has also popped up in pretzel form and – when finely chopped – as a rice substitute.","Chick-Fil-A will test a new cauliflower sandwich starting Monday, February 13th in Denver; Charleston, South Carolina; and the Greensboro-Triad region of North Carolina. Chick-Fil-A has been working on this plant-based sandwich for nearly four years. It will resemble their famous classic sandwich, but using cauliflower instead of chicken.","{'id': 14, 'motivation_app': None, 'prompt': 'Summarize this news story to only include essential information.\r\n\r\nNews story:\r\nChick-fil-A will test its first plant-based entree: a cauliflower sandwich.\r\nThe new sandwich closely resembles its famous chicken sandwich, but uses breaded and pressure-cooked cauliflower in place of meat.\r\nStarting Monday, the privately owned chain, which is the third-largest in the U.S. by sales, will test the menu item in Denver; Charleston, South Carolina; and the Greensboro-Triad region of North Carolina.\r\nChick-fil-A said it’s been working on a plant-based sandwich for nearly four years, right around when chains like Dunkin’ and Restaurant Brands International’s  Burger King were putting Beyond Meat and Impossible Foods substitutes on their menus. But meat alternatives that closely resemble the real thing have fallen out of favor with consumers after a surge in popularity during pandemic lockdowns. Both Beyond and Impossible have recently laid off about a fifth of their workforces.“We explored every corner of the plant-based space in search of the perfect centerpiece for our plant-forward entrée,” Chick-fil-A Culinary Lead Stuart Tracy said in a statement. “Time and time again, we kept returning to cauliflower as the base of our sandwich.” Over the last decade, cauliflower has become a popular substitute for a plethora of different foods. Buffalo Wild Wings and countless bars serve fried cauliflower smothered in buffalo sauce as an alternative to chicken wings. Cauliflower has also popped up in pretzel form and – when finely chopped – as a rice substitute.', 'input': None, 'completion': 'Chick-Fil-A will test a new cauliflower sandwich starting Monday, February 13th in Denver; Charleston, South Carolina; and the Greensboro-Triad region of North Carolina. Chick-Fil-A has been working on this plant-based sandwich for nearly four years. It will resemble their famous classic sandwich, but using cauliflower instead of chicken.', 'source': 'surge', 'category': 'Summarization', 'subcategory': 'News'}"
+"Change the given sentence to something with a little more flair that could be added to a fictional story:
+
+The aliens came down from space and terrorized the city.","In an instant, hundreds of alien ships descended from the heavens over the skyscrapers of New York City, causing people to flee in terror.","{'id': 15, 'motivation_app': None, 'prompt': 'Change the given sentence to something with a little more flair that could be added to a fictional story:\n\nThe aliens came down from space and terrorized the city.', 'input': None, 'completion': 'In an instant, hundreds of alien ships descended from the heavens over the skyscrapers of New York City, causing people to flee in terror.', 'source': 'surge', 'category': 'Brainstorm', 'subcategory': 'Rewriting'}"
+Pitch me a premise for a comedy movie.,"Bob is a struggling actor. His girlfriend Lacey runs a cat rescue. The rescue is about to close due to lack of funds when they come up with the ultimate fundraiser plan: producing a play that stars the cats!
+You'll laugh as you enjoy this heartwarming comedy for the whole family - ""The Purrfect Performance"".","{'id': 16, 'motivation_app': None, 'prompt': 'Pitch me a premise for a comedy movie.', 'input': None, 'completion': 'Bob is a struggling actor. His girlfriend Lacey runs a cat rescue. The rescue is about to close due to lack of funds when they come up with the ultimate fundraiser plan: producing a play that stars the cats!\nYou\'ll laugh as you enjoy this heartwarming comedy for the whole family - ""The Purrfect Performance"".', 'source': 'surge', 'category': 'Brainstorm', 'subcategory': 'Movie'}"
+Is the continent of Antarctica located at the north or South Pole?,Antarctica is located at the South Pole.,"{'id': 17, 'motivation_app': None, 'prompt': 'Is the continent of Antarctica located at the north or South Pole?', 'input': None, 'completion': 'Antarctica is located at the South Pole.', 'source': 'surge', 'category': 'Commonsense/logic', 'subcategory': 'World knowledge'}"
+What is the largest heading tag in HTML?,The '<h1>' tag is the largest heading tag in HTML.,"{'id': 18, 'motivation_app': None, 'prompt': 'What is the largest heading tag in HTML?', 'input': None, 'completion': ""The '<h1>' tag is the largest heading tag in HTML."", 'source': 'surge', 'category': 'Natural language to code', 'subcategory': 'Interative QA'}"
+List some interesting things to do in Idaho.,"1) Sun Valley  Resort - This is a very popular ski resort that has nearly 2,000 acres of skiable terrain.
+
+2) Craters of the Moon National Monument - This still-active (but dormant) area features walking routes among old lava flows, and five caves to explore.
+
+3) Sawtooth Recreational Area -Features 700 miles of hiking and horse trails, 50 campgrounds, and over 750,000 acres of wildland to explore.
+
+4) Lake Couer D'Aline - Swimming, fishing, sailing and hiking are all popular on the shores of this 25 mile long lake.
+
+5) Hell's Canyon National Recreation Area - This is the deepest river gorge in North America, and white water rafting is available for the thrill seekers in your party.","{'id': 19, 'motivation_app': None, 'prompt': 'List some interesting things to do in Idaho.', 'input': None, 'completion': ""1) Sun Valley  Resort - This is a very popular ski resort that has nearly 2,000 acres of skiable terrain.\n\n2) Craters of the Moon National Monument - This still-active (but dormant) area features walking routes among old lava flows, and five caves to explore.\n\n3) Sawtooth Recreational Area -Features 700 miles of hiking and horse trails, 50 campgrounds, and over 750,000 acres of wildland to explore.\n\n4) Lake Couer D'Aline - Swimming, fishing, sailing and hiking are all popular on the shores of this 25 mile long lake.\n\n5) Hell's Canyon National Recreation Area - This is the deepest river gorge in North America, and white water rafting is available for the thrill seekers in your party."", 'source': 'surge', 'category': 'Generation', 'subcategory': 'Make a list'}"
+Generate a short story about a young girl named Annie who goes on a summer adventure. It should be between 2- 4 paragraphs long.,"Once upon a time, there was a 14-year-old girl named Annie with a wild imagination and an insatiable thirst for adventure. Ever since she was a little girl, she had dreamed of going on a great adventure of her own, and this summer she finally decided to take the plunge.
+
+She packed just the essentials - a few snacks, some extra clothes, a map, and her trusty camera - and set off. Along the way, she encountered all sorts of incredible things: babbling brooks, majestic mountains, breathtaking sunsets, and even some friendly people.
+
+Every day felt like an adventure as she explored new places and made countless memories that she would cherish forever. By the end of the summer, Annie had grown so much as an individual and gained a whole new appreciation for life. She returned home with so many stories to tell her family and friends!","{'id': 20, 'motivation_app': None, 'prompt': 'Generate a short story about a young girl named Annie who goes on a summer adventure. It should be between 2- 4 paragraphs long.', 'input': None, 'completion': 'Once upon a time, there was a 14-year-old girl named Annie with a wild imagination and an insatiable thirst for adventure. Ever since she was a little girl, she had dreamed of going on a great adventure of her own, and this summer she finally decided to take the plunge.\r\n\r\nShe packed just the essentials - a few snacks, some extra clothes, a map, and her trusty camera - and set off. Along the way, she encountered all sorts of incredible things: babbling brooks, majestic mountains, breathtaking sunsets, and even some friendly people.\r\n\r\nEvery day felt like an adventure as she explored new places and made countless memories that she would cherish forever. By the end of the summer, Annie had grown so much as an individual and gained a whole new appreciation for life. She returned home with so many stories to tell her family and friends!', 'source': 'surge', 'category': 'Generation', 'subcategory': 'Story generation'}"
+Create a bash script that calculates the sum of all numbers from 1 to 100.,"#!/bin/bash
+sum=0
+for i in {1..100}
+do
+    sum=$((sum + i))
+done
+echo ""The sum of all numbers from 1 to 100 is: $sum""","{'id': 21, 'motivation_app': None, 'prompt': 'Create a bash script that calculates the sum of all numbers from 1 to 100.', 'input': None, 'completion': '#!/bin/bash\nsum=0\nfor i in {1..100}\ndo\n    sum=$((sum + i))\ndone\necho ""The sum of all numbers from 1 to 100 is: $sum""', 'source': 'surge', 'category': 'Natural language to code', 'subcategory': 'code generation'}"
+"Make a list of kid friendly areas in New York City, in a bullet-pointed list using * as bullets.
+Just the names please, I don't need any descriptions","Here is a list of kid-friendly areas in New York City.
+
+* Staten Island Ferry
+* Statue of Liberty & Ellis Island
+* One World Observatory
+* South Street Seaport Museum
+* Children's Museum of the Arts
+* New York City Fire Museum
+* Chelsea Piers Sports and Entertainment Complex
+* National Museum of Mathematics","{'id': 22, 'motivation_app': None, 'prompt': ""Make a list of kid friendly areas in New York City, in a bullet-pointed list using * as bullets.\nJust the names please, I don't need any descriptions"", 'input': None, 'completion': ""Here is a list of kid-friendly areas in New York City.\n\n* Staten Island Ferry\n* Statue of Liberty & Ellis Island\n* One World Observatory\n* South Street Seaport Museum\n* Children's Museum of the Arts\n* New York City Fire Museum\n* Chelsea Piers Sports and Entertainment Complex\n* National Museum of Mathematics"", 'source': 'surge', 'category': 'Generation', 'subcategory': 'Make a list'}"
+"I have these ingredients in my fridge: flour, eggs, milk, ham, and spinach. Generate a recipe for a meal I can make.","Here is a recipe for ham and spinach pie that can make use of the ingredients in your fridge.
+
+Ingredients: 
+- 2 cups flour 
+- 4 eggs 
+- 1 cup milk 
+- 4 ounces of chopped cooked ham
+- 2 cups fresh spinach, lightly steamed and chopped 
+
+Instructions: 
+1. Preheat the oven to 375 degrees F (190 degrees C). 
+2. Grease a 9-inch pie dish. 
+3. In a medium bowl, whisk together the flour and eggs. Gradually add the milk until the mixture is smooth. Add the ham and spinach and mix well until the ingredients are evenly distributed in the batter. Pour into the prepared pie dish.
+4. Bake in a preheated oven for 25 minutes or until the top is golden brown. 
+Allow to cool and then serve. Enjoy!","{'id': 23, 'motivation_app': None, 'prompt': 'I have these ingredients in my fridge: flour, eggs, milk, ham, and spinach. Generate a recipe for a meal I can make.', 'input': None, 'completion': 'Here is a recipe for ham and spinach pie that can make use of the ingredients in your fridge.\r\n\r\nIngredients: \r\n- 2 cups flour \r\n- 4 eggs \r\n- 1 cup milk \r\n- 4 ounces of chopped cooked ham\r\n- 2 cups fresh spinach, lightly steamed and chopped \r\n\r\nInstructions: \r\n1. Preheat the oven to 375 degrees F (190 degrees C). \r\n2. Grease a 9-inch pie dish. \r\n3. In a medium bowl, whisk together the flour and eggs. Gradually add the milk until the mixture is smooth. Add the ham and spinach and mix well until the ingredients are evenly distributed in the batter. Pour into the prepared pie dish.\r\n4. Bake in a preheated oven for 25 minutes or until the top is golden brown. \r\nAllow to cool and then serve. Enjoy!', 'source': 'surge', 'category': 'Brainstorm', 'subcategory': 'Food'}"
+Give me the answer to this trivia question: what team was LeBron James playing for when he broke the NBA all time scoring record?,Los Angeles Lakers,"{'id': 24, 'motivation_app': None, 'prompt': 'Give me the answer to this trivia question: what team was LeBron James playing for when he broke the NBA all time scoring record?', 'input': None, 'completion': 'Los Angeles Lakers', 'source': 'surge', 'category': 'Question Answering', 'subcategory': 'Factual'}"
+"Write the beginning to a story. It should have 3 sentences and include the following words: book, coffee, alarms. The protagonist should be female.","Sandra took a sharp left turn to go into her favorite cafe. She slowly laid her finger on the book she had been waiting weeks to begin reading, the aroma of cold brew coffee settling into her senses. Before Sandra could finish the first page, the cafe lit up red with blaring alarms.","{'id': 25, 'motivation_app': None, 'prompt': 'Write the beginning to a story. It should have 3 sentences and include the following words: book, coffee, alarms. The protagonist should be female.', 'input': None, 'completion': 'Sandra took a sharp left turn to go into her favorite cafe. She slowly laid her finger on the book she had been waiting weeks to begin reading, the aroma of cold brew coffee settling into her senses. Before Sandra could finish the first page, the cafe lit up red with blaring alarms.', 'source': 'surge', 'category': 'Generation', 'subcategory': 'Story generation'}"
+I am going to a theme park called Cedar Point in Ohio this summer and need a list of the best roller coasters there.,"Here is a lit of Cedar Point's best roller coasters.
+
+1) Steel Vengeance
+2) Valravn
+3) Maverick
+4) Millennium Force
+5) Top Thrill Dragster","{'id': 26, 'motivation_app': None, 'prompt': 'I am going to a theme park called Cedar Point in Ohio this summer and need a list of the best roller coasters there.', 'input': None, 'completion': ""Here is a lit of Cedar Point's best roller coasters.\n\n1) Steel Vengeance\n2) Valravn\n3) Maverick\n4) Millennium Force\n5) Top Thrill Dragster"", 'source': 'surge', 'category': 'Generation', 'subcategory': 'Make a list'}"
+List the ways that a batter can reach first base in major league baseball.,"1) Base hit
+2) Walk
+3) Error
+4) Fielder's choice
+5) Dropped third strike
+6) Catcher interference
+7) Fielder obstruction
+8) Hit by pitch
+9) A batted ball hits a baserunner before a fielder has touched it","{'id': 27, 'motivation_app': None, 'prompt': 'List the ways that a batter can reach first base in major league baseball.', 'input': None, 'completion': ""1) Base hit\n2) Walk\n3) Error\n4) Fielder's choice\n5) Dropped third strike\n6) Catcher interference\n7) Fielder obstruction\n8) Hit by pitch\n9) A batted ball hits a baserunner before a fielder has touched it"", 'source': 'surge', 'category': 'Generation', 'subcategory': 'Make a list'}"
+"Create a poem that makes rhymes with the word ‘hat’. It should be no more than 10 lines long. Also, try to make it sound like something Dr Seuss would write.","When I left, I forgot my hat
+Or maybe, it was a bat?
+But I can’t have a bat, I just have a hat
+I guess I should leave it at that
+Leaving now, I saw a big rat
+I tried to catch it quickly with my hat
+It looked at me funny, 
+And said ‘hey honey’
+It was trying to run from my cat","{'id': 28, 'motivation_app': None, 'prompt': 'Create a poem that makes rhymes with the word ‘hat’. It should be no more than 10 lines long. Also, try to make it sound like something Dr Seuss would write.', 'input': None, 'completion': 'When I left, I forgot my hat\nOr maybe, it was a bat?\nBut I can’t have a bat, I just have a hat\nI guess I should leave it at that\nLeaving now, I saw a big rat\nI tried to catch it quickly with my hat\nIt looked at me funny, \nAnd said ‘hey honey’\nIt was trying to run from my cat', 'source': 'surge', 'category': 'Generation', 'subcategory': 'Poetry generation'}"
+"Write a letter of reference for an employee, using the following information:
+
+Name: Charise Jacobs
+Position: Assistant Store Manager, Kmart
+Years employed: 2012-2022
+Starting Wage: $9.50/hr
+Ending Wage $16.50/hr
+
+Position desired: Store Manager, Walmart","To whom it may concern,
+
+I am writing you to recommend Charise Jacobs for your store manager position. In the ten years she has worked for Kmart, she has excelled in all areas, working up from cashier to assistant store manager. She consistently demonstrated exceptional leadership, organizational, and customer service skills. Over the years, she has played a crucial role in driving profits, maintaining efficiency, and delivering an outstanding customer experience. She will be an asset to any team she joins. She has a deep understanding of the retail environment and extensive experience in managing a large team of diverse individuals. I recommend her with the highest degree of confidence. Do not hesitate to reach out to me if you have any further questions as to her ability.
+
+Sincerely,
+(Name)","{'id': 29, 'motivation_app': None, 'prompt': 'Write a letter of reference for an employee, using the following information:\n\nName: Charise Jacobs\nPosition: Assistant Store Manager, Kmart\nYears employed: 2012-2022\nStarting Wage: $9.50/hr\nEnding Wage $16.50/hr\n\nPosition desired: Store Manager, Walmart', 'input': None, 'completion': 'To whom it may concern,\n\nI am writing you to recommend Charise Jacobs for your store manager position. In the ten years she has worked for Kmart, she has excelled in all areas, working up from cashier to assistant store manager. She consistently demonstrated exceptional leadership, organizational, and customer service skills. Over the years, she has played a crucial role in driving profits, maintaining efficiency, and delivering an outstanding customer experience. She will be an asset to any team she joins. She has a deep understanding of the retail environment and extensive experience in managing a large team of diverse individuals. I recommend her with the highest degree of confidence. Do not hesitate to reach out to me if you have any further questions as to her ability.\n\nSincerely,\n(Name)', 'source': 'surge', 'category': 'Brainstorm', 'subcategory': 'Letters'}"

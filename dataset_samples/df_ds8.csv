@@ -1,0 +1,493 @@
+prompt,response,helpfulness,correctness,coherence,complexity,verbosity
+What are the three most important things to consider when deciding what technology to use to build an assist device to help an elderly person with basic needs?,"To build an assistive device to help an elderly person with basic needs, one must consider three crucial things: safety, compatibility, and ease of use. Safety is paramount, as the device must not cause harm to the user. Compatibility with the user's environment and other devices is also essential. Finally, the device must be simple enough for the elderly person to operate.",3,4,4,2,2
+What are the three most important things to consider when deciding what technology to use to build an assist device to help an elderly person with basic needs?,"There are many different types of assistive devices that can be used to help an elderly person with their basic needs. When deciding what technology to use to build an assistive device, it is important to consider the following three factors:
+
+1. The needs of the elderly person: The first and most important factor to consider is the specific needs of the elderly person who will be using the assistive device. It is important to understand their physical limitations, as well as their daily routine and activities, in order to design an assistive device that will be effective and useful for them.
+
+2. The capabilities of the technology: It is also important to consider the capabilities of the technology that will be used to build the assistive device. For example, if the elderly person has limited vision, it may be important to use a technology that provides auditory feedback or haptic feedback in addition to visual feedback.
+
+3. The ease of use of the technology: Finally, it is important to consider the ease of use of the technology. The assistive device should be designed in a way that is easy for the elderly person to understand and use, even if they have limited dexterity or cognitive abilities. This may involve using simple controls, providing clear instructions, or using a natural language interface.
+
+By considering these three factors, it is possible to build an assistive device that is effective, useful, and easy to use for the elderly person.",4,3,3,2,3
+What are the three most important things to consider when deciding what technology to use to build an assist device to help an elderly person with basic needs?,"When deciding what technology to use to build an assist device to help an elderly person with basic needs, there are three most important things to consider:
+
+1. The specific needs of the elderly person: The assist device should be tailored to the individual's specific needs and limitations. For example, if the person has limited mobility, the device should focus on assisting with mobility.
+
+2. The ease of use: The assist device should be easy to use and understand, with clear and simple instructions. The elderly person should be able to operate the device without assistance.
+
+3. The reliability of the technology: The assist device should be reliable and robust, with minimal risk of malfunction or failure. The technology should be tested thoroughly to ensure it is safe and effective.",4,4,4,2,2
+What are the three most important things to consider when deciding what technology to use to build an assist device to help an elderly person with basic needs?,"You can create an assistant device to help an elderly person with basic needs by using various technologies, such as AI, machine learning, and natural language processing. The three most important things to consider when deciding what technology to use are:
+
+1. Safety: The technology should be safe for the elderly person to use and should not cause any harm or injury.
+
+2. Ease of use: The technology should be easy to understand and use, with clear and concise instructions.
+
+3. Compatibility: The technology should be compatible with the elderly person's needs and abilities, and should be able to accommodate any special requirements or limitations.
+
+It is also important to consider the person's specific needs when choosing a technology, such as their level of mobility, cognitive abilities, and sensory capabilities. Additionally, you should consider the cost of the technology, the availability of support and maintenance, and the potential for the technology to improve the person's quality of life.
+
+I hope this information is helpful. Let me know if you have any other questions.",3,3,3,2,3
+"Background:
+<start of reference>
+Family doctors and general practice doctors have similar educational and residency requirements, and offer some of the same medical services. Each completes a four-year bachelor’s degree with a strong emphasis in chemistry, biology and physics; four years of education at an accredited U.S. medical school; and three years of residency under the supervision of a senior physician educator. Differences in their approaches relate to specialization and types of care.
+
+Practice Philosophy
+Family practice physicians focus on meeting the needs of the entire family. The family doctor is uniquely trained to care for the whole person throughout his or her life, from birth to old age. Family doctors often receive training outside of general medicine in the areas of pediatrics, obstetrics and gynecology, and geriatrics. General practice doctors also see patients of any age, but do not typically specialize in a particular area. General practice doctors use their skills and expertise to treat medical conditions and identify areas that need continued care from a specialist.
+
+Types of Patients
+The general practitioner sees patients of all ages, and serves as an individual's primary-care provider and access point to specialists and specialized testing. The general practice doctor provides well visits for children and adults, sick visits for the treatment of acute conditions, and introductory care for diseases such as high blood pressure and high cholesterol. Family practice physicians also see patients of all ages, but because they specialize, patients may receive more of their medical care in this one location instead of being referred to specialists.
+
+Preventative Medicine vs. Treatment
+Because family practice doctors work with patients throughout their lifetime, the primary focus is on preventative medicine. Family physicians work with families to promote their overall physical and mental well-being. They also provide education for disease prevention and treatment of illnesses, and manage chronic medical conditions. General practice doctors focus on the treatment of acute conditions and build relationships with trusted specialists to provide appropriate care for those with complex medical conditions.
+
+Certification and Continuing Education
+Family physicians are certified by the American Board of Family Medicine, which requires re-certification every six years by examination. Family physicians must also complete a minimum of 150 hours of continuing education every three years. General practice physicians are certified by the American Board of General Practice through one of two methods. The Primary Standard Pathway requires the completion of the General Practice Training Program of the American College of General Medicine. The Previous Experience Pathway allows for immediate certification by the board through oral examination.
+<end of reference>
+Task:
+Based on the insert provided, create a short about being a family doctor. I want the story to be at least 300 words, and I want it to have a happy ending. This story will be for a young child, so keep in mind that simpler language is needed.","Hi there! I'm Dr. Family, and I'm here to tell you all about being a family doctor. It's a job that I love, and I'm sure you'll love it too!
+
+As a family doctor, I have to be ready for anything. I see patients of all ages, from babies to grandparents, and I have to be able to treat them all. That means I have to know a lot about medicine, so I have to study really hard. But it's worth it, because I get to help people feel better and stay healthy.
+
+One of the best things about being a family doctor is that I get to know my patients really well. I see them through all the big moments in their lives, like when they have a baby or when they get sick. And because I know them so well, I can help them make the best decisions for their health.
+
+Being a family doctor isn't always easy, but it's always rewarding. I have to make tough decisions sometimes, and I have to be there for my patients when they need me the most. But at the end of the day, I know that I'm making a difference in people's lives.
+
+So if you're thinking about becoming a family doctor, I say go for it! It's a job that's full of surprises, but it's also full of love and joy. And that's what really matters.",3,3,3,2,1
+"Background:
+<start of reference>
+Family doctors and general practice doctors have similar educational and residency requirements, and offer some of the same medical services. Each completes a four-year bachelor’s degree with a strong emphasis in chemistry, biology and physics; four years of education at an accredited U.S. medical school; and three years of residency under the supervision of a senior physician educator. Differences in their approaches relate to specialization and types of care.
+
+Practice Philosophy
+Family practice physicians focus on meeting the needs of the entire family. The family doctor is uniquely trained to care for the whole person throughout his or her life, from birth to old age. Family doctors often receive training outside of general medicine in the areas of pediatrics, obstetrics and gynecology, and geriatrics. General practice doctors also see patients of any age, but do not typically specialize in a particular area. General practice doctors use their skills and expertise to treat medical conditions and identify areas that need continued care from a specialist.
+
+Types of Patients
+The general practitioner sees patients of all ages, and serves as an individual's primary-care provider and access point to specialists and specialized testing. The general practice doctor provides well visits for children and adults, sick visits for the treatment of acute conditions, and introductory care for diseases such as high blood pressure and high cholesterol. Family practice physicians also see patients of all ages, but because they specialize, patients may receive more of their medical care in this one location instead of being referred to specialists.
+
+Preventative Medicine vs. Treatment
+Because family practice doctors work with patients throughout their lifetime, the primary focus is on preventative medicine. Family physicians work with families to promote their overall physical and mental well-being. They also provide education for disease prevention and treatment of illnesses, and manage chronic medical conditions. General practice doctors focus on the treatment of acute conditions and build relationships with trusted specialists to provide appropriate care for those with complex medical conditions.
+
+Certification and Continuing Education
+Family physicians are certified by the American Board of Family Medicine, which requires re-certification every six years by examination. Family physicians must also complete a minimum of 150 hours of continuing education every three years. General practice physicians are certified by the American Board of General Practice through one of two methods. The Primary Standard Pathway requires the completion of the General Practice Training Program of the American College of General Medicine. The Previous Experience Pathway allows for immediate certification by the board through oral examination.
+<end of reference>
+Task:
+Based on the insert provided, create a short about being a family doctor. I want the story to be at least 300 words, and I want it to have a happy ending. This story will be for a young child, so keep in mind that simpler language is needed.","Hello, I am Dr. Sarah! I am a family doctor, which means I take care of people of all ages, from babies to grandparents. I help with everything from flu shots to broken bones.
+
+I went to medical school for a very long time, and then I did a residency where I worked with a lot of other doctors to learn how to take care of patients. I learned how to do things like check ears and throats, take blood pressure, and even help with deliveries when a baby is ready to come out!
+
+As a family doctor, I work with my patients to help them stay healthy. I give shots and check ears and throats, but I also talk to people about how to eat healthy and exercise and how to take care of themselves. I want my patients to be happy and healthy for a long time!
+
+I know that going to the doctor can be scary sometimes, but I promise to do everything I can to make it a good experience. I am here to help, and I am here to listen. If you ever need to see a doctor, I hope you will come and see me!",4,4,4,2,2
+"Background:
+<start of reference>
+Family doctors and general practice doctors have similar educational and residency requirements, and offer some of the same medical services. Each completes a four-year bachelor’s degree with a strong emphasis in chemistry, biology and physics; four years of education at an accredited U.S. medical school; and three years of residency under the supervision of a senior physician educator. Differences in their approaches relate to specialization and types of care.
+
+Practice Philosophy
+Family practice physicians focus on meeting the needs of the entire family. The family doctor is uniquely trained to care for the whole person throughout his or her life, from birth to old age. Family doctors often receive training outside of general medicine in the areas of pediatrics, obstetrics and gynecology, and geriatrics. General practice doctors also see patients of any age, but do not typically specialize in a particular area. General practice doctors use their skills and expertise to treat medical conditions and identify areas that need continued care from a specialist.
+
+Types of Patients
+The general practitioner sees patients of all ages, and serves as an individual's primary-care provider and access point to specialists and specialized testing. The general practice doctor provides well visits for children and adults, sick visits for the treatment of acute conditions, and introductory care for diseases such as high blood pressure and high cholesterol. Family practice physicians also see patients of all ages, but because they specialize, patients may receive more of their medical care in this one location instead of being referred to specialists.
+
+Preventative Medicine vs. Treatment
+Because family practice doctors work with patients throughout their lifetime, the primary focus is on preventative medicine. Family physicians work with families to promote their overall physical and mental well-being. They also provide education for disease prevention and treatment of illnesses, and manage chronic medical conditions. General practice doctors focus on the treatment of acute conditions and build relationships with trusted specialists to provide appropriate care for those with complex medical conditions.
+
+Certification and Continuing Education
+Family physicians are certified by the American Board of Family Medicine, which requires re-certification every six years by examination. Family physicians must also complete a minimum of 150 hours of continuing education every three years. General practice physicians are certified by the American Board of General Practice through one of two methods. The Primary Standard Pathway requires the completion of the General Practice Training Program of the American College of General Medicine. The Previous Experience Pathway allows for immediate certification by the board through oral examination.
+<end of reference>
+Task:
+Based on the insert provided, create a short about being a family doctor. I want the story to be at least 300 words, and I want it to have a happy ending. This story will be for a young child, so keep in mind that simpler language is needed.","What is a family doctor? They are doctors who are really special because they take care of your whole family. They can take care of babies, children, moms, dads, and even grandparents! That means they take care of everyone, and that's a lot of people!
+
+Family doctors have to go to school for a really long time to learn how to take care of everyone. They have to learn about all kinds of things, like how to take care of a baby's tummy, or how to take care of a broken arm. They even learn how to take care of your heart and make sure it is healthy!
+
+Family doctors are really special because they can help you when you are sick, and they can help you stay healthy too. They can help you eat right and exercise, and even help you with your feelings! That's because they care about you and your family, and they want to help you be the best you can be.
+
+So, if you ever need to see a doctor, remember that your family doctor is there to help you and your whole family stay healthy and happy!",2,3,3,2,2
+"Consider this reference information delimited in """""":
+""""""
+Or does he send news? Has he found the Almeida Killer?""
+
+More confused at the changes in the once well-groomed man she'd seen a few months ago than by his gibberish about Almeida, she pitched her head side to side. ""I'm not sure if his note has more news of a two-year old bloodbath that savaged my Spanish lands. But, I know he wants you to return with me.""
+
+""No! Hart will not order me around. Nor will one of his foot soldiers.""
+
+His voice felt like thunder. His shaking fist would surely hit with a punch of lightning, still she held the note out to him.
+
+""I swore to him I'd kill the next messenger who came to me."" Bannerman flexed his gloved fingers. ""I guess you're the lucky one he chose to die.""
+
+Death didn't scare Isadel any more than living with regrets. She folded her arms about her. ""I've always been lucky like that.""
+
+""I'll give it to Hartland. He knew how much the former me liked a good joke. But a dead man has no room for laughter or more guilt. Return to Hart and tell him no.""
+
+She stamped her foot like a girl, but hardened her voice. ""Do your worst, or return with me to Hartland Abbey. No middle ground.""
+
+He came near. She could smell the stench of metal coming from his arm or his hand—so like her father's apothecary shop. His arms flexed as he hovered. He was large, larger than she remembered, but as a good servant, she'd never been this near to him.
+
+His scent, ferrous or sulfur, strangled. ""No one gives me ultimatums.""
+
+If this was the end, part of her was glad of it. Straightening her spine, she held her breath and waited to be throttled, waited for darkness to overcome her when he choked the air from her throat betwixt his large hands. That had to be a better fate than going to prison or living with the knowledge she'd failed at her one chance to kill her enemy.
+
+~~~
+
+Hugh Bannerman raised his hands ready to punch the messenger through the wall as he'd done with everyone else who'd stood against him, but the boy merely did the task Hart had requested, just as Phipps, his man-of-all-work would do. Hugh took a breath and lowered his fists. He turned and let his frustration meet the desk. When he tapped it, the legs split and sent his piles of research spilling to the floor.
+
+He flexed his palm, but the rapid action hadn't caused his hand to bleed again.
+""""""
+
+Please rewrite this scene to be more lighthearted and humorous, while also maintaining the historical fiction genre.","Isadel handed Hart's note to Hugh with a smile. ""Look, Hart finally sends you something useful.""
+
+Hugh took the note and began reading. His face turned red, and he threw the paper on the floor. ""Don't give me that smirk. You're going to prison.""
+
+Isadel sighed. ""Please, Hart wants me to return with you. You know how much he misses me.""
+
+Hugh shook his head. ""No, I'm not going to let you go back to Hartland Abbey. You're going to prison for your crimes.""
+
+Isadel rolled her eyes. ""Fine, whatever. I'll just go to prison then."" She walked away, but turned back to add, ""But you're still going to prison too.""",2,2,2,2,2
+What are the origins of ice cream? How did it evolve from a rare and expensive delicacy to the ubiquitous treat that it is today?,"The origins of ice cream can be traced back to China, where frozen treats were enjoyed as early as the 10th century. Ice cream was also popular in ancient Rome, where it was enjoyed by the wealthy. The recipe for ice cream as we know it today, however, is thought to have originated in Italy during the Renaissance. The recipe was brought to the United States by Italian immigrants in the 19th century, and ice cream quickly became a popular treat.",2,3,4,2,1
+What are the origins of ice cream? How did it evolve from a rare and expensive delicacy to the ubiquitous treat that it is today?,"The origins of ice cream can be traced back to ancient China, where a frozen dessert similar to ice cream was first created. The recipe for this ancient ice cream included rice, milk, and fruit. Over time, the recipe evolved and spread to other parts of the world, including Europe. In the 16th century, the Italian chef of Catherine de Medici, the wife of King Henry II of France, created a recipe for a frozen dessert that included eggs, sugar, and cream. This recipe became known as ""royale"" and was considered a rare and expensive delicacy.
+
+The popularity of ice cream continued to grow throughout the centuries, and by the 19th century, it had become a popular treat in the United States. The invention of the ice cream maker in the mid-19th century made it easier to produce large quantities of ice cream, and the invention of the ice cream cone in the late 19th century made it easier to eat ice cream on the go.
+
+Today, ice cream is a ubiquitous treat that is enjoyed by people of all ages around the world. It is now available in a wide variety of flavors and is often made with healthier ingredients such as fruits, nuts, and other natural sweeteners. Ice cream has also become a popular ingredient in many desserts, such as ice cream sandwiches, ice cream cakes, and ice cream pies.",4,3,4,2,3
+What are the origins of ice cream? How did it evolve from a rare and expensive delicacy to the ubiquitous treat that it is today?,"Ice cream has a long and storied history, dating back to ancient China where it is believed that the earliest forms of the frozen treat were created. The earliest written records of ice cream come from the courts of the Ottoman Empire in the 16th century, where it was served as a rare and expensive delicacy for the nobility. It wasn't until the 19th century that ice cream began to become more widely available and accessible, as the invention of the ice cream cone and the ice cream scoop made it easier to serve and consume. The invention of the home freezer in the 1920s further democratized ice cream, making it possible for families to enjoy the treat at home. Today, ice cream is a global phenomenon, with countless flavors and varieties available in stores and restaurants around the world.",2,3,3,2,1
+What are the origins of ice cream? How did it evolve from a rare and expensive delicacy to the ubiquitous treat that it is today?,"The origins of ice cream can be traced back to ancient China, where a frozen dessert similar to ice cream was first created using milk, flour, and ice. This early version of ice cream was brought to Europe by Marco Polo during his travels to China in the 13th century, where it quickly became a luxury item reserved for the wealthy. In the 17th century, ice cream began to be produced commercially in Italy, and by the 18th century, it had become a popular delicacy in France and England.
+
+The modern-day ice cream we know and love today began to emerge in the late 19th century, with the invention of the mechanical ice cream maker. This invention made it possible to produce ice cream on a large scale, and ice cream shops began to pop up all over the United States. During the 20th century, ice cream became even more accessible, with the invention of the popsicle and the ice cream truck. Today, ice cream is a global phenomenon, with millions of people enjoying it as a sweet treat all over the world.",4,3,4,2,3
+"Reference:
+<start of reference>
+You would may not fully understand why an institution or celebration needs to pull you away from your mission and career obligations and don't see the harm in stopping by the office on your day off or bringing some of your work home with you.
+
+You feel your best if people can just put you to work, even if it is managing the holiday festivities. You don't do well with idle time and feel uncomfortable being social unless there is some purpose to the interaction. In spite of this you cherish tradition and will enjoy the holidays on a deeper level when traditions, history and roots are being honored.
+
+Capricorn, we know you are not cold and detached. Your sense of business and work ethic help give order and structure to your life and are as natural as eating or sleeping. You may not be into the warm fuzzies of holiday sentimentality but you provide an important foundation of stability, discipline, order and structure so that others can enjoy reveling in the holiday cheer.
+
+You do have a warm heart and good sense of humor, its just that you feel more at ease when there is some kind of work to be done.
+
+That being said, you don't have to isolate yourself from the festivities in order to feel connected with your sense of purpose. Your ""job"" may be playing Santa, cleaning the house, organizing a food drive, shoveling sidewalks, or organizing the holiday greeting card list. Find ways to bring the value of structure and security into the festivities rather than secluding yourself from the celebrations to only focus on work.
+
+Capricorn Healthy Diet
+
+You have a good sense of self discipline and will not likely overindulge once you have made up your mind not to. You could easily stick to the same meals all the time and not get bored, for you are truly a creature of habit. Therefore if you are in the midst of making dietary changes to support your health or weight loss, it can be challenging to adapt to food substitutions (what do you mean no meat, potatoes and butter?!)
+
+When it comes to diet you are turned off by trends. You want to see the proof in the pudding, so to speak, about why a certain meal plan or diet is recommended. You approach life like the CEO of a business. If results can be proven by the test of time, you will invest your money, energy and time in creating the same results in your own life.
+
+However you are not fooled by hype over the latest health food and you know that green wrapping is not synonymous with healthy.
+
+Yours is the energy of Karma and timing, Capricorn. You want to see the before and after picture and you need to know that you will get results, although you are patient and don't expect instant gratification from a diet.
+
+You can withstand peer pressure in the realm of food and most other things but you are a traditionalist and it is difficult for you to break habits and change your routines. Try gradual shifts rather than radical changes.
+
+If you are raised on 3 meals a day, at certain times, these practices will be closely tied to your sense of order, control and correct action.
+<end of reference>
+Instruction:
+Please rewrite this description of the Capricorn personality to be more abstract, philosophical and emotionally resonant.","As a Capricorn, you are a steady and reliable presence in the lives of those around you. You are a hard worker with a strong sense of duty and responsibility, and you take pride in your accomplishments. Your grounded nature and practical approach to life help you to navigate through challenges with ease.
+
+However, you may sometimes feel pressure to conform to expectations and can be overly critical of yourself and others. You may also struggle with feelings of isolation and loneliness, as you often prefer to keep to yourself and can be reserved in social situations.
+
+It is important to remember that while hard work is important, it is also crucial to take time for self-care and to connect with others. You have a deep sense of integrity and a strong sense of justice, and your ability to remain calm and level-headed in difficult situations is a valuable asset.
+
+Overall, as a Capricorn, you are a strong and determined individual with a great capacity for growth and self-improvement.",3,3,3,2,2
+"Reference:
+<start of reference>
+You would may not fully understand why an institution or celebration needs to pull you away from your mission and career obligations and don't see the harm in stopping by the office on your day off or bringing some of your work home with you.
+
+You feel your best if people can just put you to work, even if it is managing the holiday festivities. You don't do well with idle time and feel uncomfortable being social unless there is some purpose to the interaction. In spite of this you cherish tradition and will enjoy the holidays on a deeper level when traditions, history and roots are being honored.
+
+Capricorn, we know you are not cold and detached. Your sense of business and work ethic help give order and structure to your life and are as natural as eating or sleeping. You may not be into the warm fuzzies of holiday sentimentality but you provide an important foundation of stability, discipline, order and structure so that others can enjoy reveling in the holiday cheer.
+
+You do have a warm heart and good sense of humor, its just that you feel more at ease when there is some kind of work to be done.
+
+That being said, you don't have to isolate yourself from the festivities in order to feel connected with your sense of purpose. Your ""job"" may be playing Santa, cleaning the house, organizing a food drive, shoveling sidewalks, or organizing the holiday greeting card list. Find ways to bring the value of structure and security into the festivities rather than secluding yourself from the celebrations to only focus on work.
+
+Capricorn Healthy Diet
+
+You have a good sense of self discipline and will not likely overindulge once you have made up your mind not to. You could easily stick to the same meals all the time and not get bored, for you are truly a creature of habit. Therefore if you are in the midst of making dietary changes to support your health or weight loss, it can be challenging to adapt to food substitutions (what do you mean no meat, potatoes and butter?!)
+
+When it comes to diet you are turned off by trends. You want to see the proof in the pudding, so to speak, about why a certain meal plan or diet is recommended. You approach life like the CEO of a business. If results can be proven by the test of time, you will invest your money, energy and time in creating the same results in your own life.
+
+However you are not fooled by hype over the latest health food and you know that green wrapping is not synonymous with healthy.
+
+Yours is the energy of Karma and timing, Capricorn. You want to see the before and after picture and you need to know that you will get results, although you are patient and don't expect instant gratification from a diet.
+
+You can withstand peer pressure in the realm of food and most other things but you are a traditionalist and it is difficult for you to break habits and change your routines. Try gradual shifts rather than radical changes.
+
+If you are raised on 3 meals a day, at certain times, these practices will be closely tied to your sense of order, control and correct action.
+<end of reference>
+Instruction:
+Please rewrite this description of the Capricorn personality to be more abstract, philosophical and emotionally resonant.","Capricorn is a sign that represents the organizational, time-tested, and methodical aspects of life. As a Cardinal Earth sign, it is associated with a grounded and practical approach to life, characterized by a deep appreciation for the past and a commitment to creating a strong foundation for the future.
+
+Capricorn individuals are often seen as driven, focused, and highly responsible. They have a strong sense of duty and a desire to contribute to the greater good, which can manifest in various ways, such as through their career, family, or community involvement. They have a deep respect for tradition and a sense of duty towards their family, friends, and society.
+
+However, this sign can also be seen as somewhat rigid, stubborn, and overly focused on the material aspects of life. They can be prone to worry and anxiety, and may struggle with issues related to self-worth and self-confidence.
+
+Despite these potential challenges, the Capricorn personality is characterized by a deep sense of integrity, loyalty, and a strong work ethic. They are often seen as reliable, responsible, and highly competent, and they have a strong sense of the importance of tradition and history.
+
+Overall, the Capricorn personality is a complex and multi-faceted one, with both positive and negative qualities. However, their commitment to creating a strong foundation for the future and their deep respect for tradition make them a valuable asset in any community.",3,3,4,2,3
+"Reference:
+<start of reference>
+You would may not fully understand why an institution or celebration needs to pull you away from your mission and career obligations and don't see the harm in stopping by the office on your day off or bringing some of your work home with you.
+
+You feel your best if people can just put you to work, even if it is managing the holiday festivities. You don't do well with idle time and feel uncomfortable being social unless there is some purpose to the interaction. In spite of this you cherish tradition and will enjoy the holidays on a deeper level when traditions, history and roots are being honored.
+
+Capricorn, we know you are not cold and detached. Your sense of business and work ethic help give order and structure to your life and are as natural as eating or sleeping. You may not be into the warm fuzzies of holiday sentimentality but you provide an important foundation of stability, discipline, order and structure so that others can enjoy reveling in the holiday cheer.
+
+You do have a warm heart and good sense of humor, its just that you feel more at ease when there is some kind of work to be done.
+
+That being said, you don't have to isolate yourself from the festivities in order to feel connected with your sense of purpose. Your ""job"" may be playing Santa, cleaning the house, organizing a food drive, shoveling sidewalks, or organizing the holiday greeting card list. Find ways to bring the value of structure and security into the festivities rather than secluding yourself from the celebrations to only focus on work.
+
+Capricorn Healthy Diet
+
+You have a good sense of self discipline and will not likely overindulge once you have made up your mind not to. You could easily stick to the same meals all the time and not get bored, for you are truly a creature of habit. Therefore if you are in the midst of making dietary changes to support your health or weight loss, it can be challenging to adapt to food substitutions (what do you mean no meat, potatoes and butter?!)
+
+When it comes to diet you are turned off by trends. You want to see the proof in the pudding, so to speak, about why a certain meal plan or diet is recommended. You approach life like the CEO of a business. If results can be proven by the test of time, you will invest your money, energy and time in creating the same results in your own life.
+
+However you are not fooled by hype over the latest health food and you know that green wrapping is not synonymous with healthy.
+
+Yours is the energy of Karma and timing, Capricorn. You want to see the before and after picture and you need to know that you will get results, although you are patient and don't expect instant gratification from a diet.
+
+You can withstand peer pressure in the realm of food and most other things but you are a traditionalist and it is difficult for you to break habits and change your routines. Try gradual shifts rather than radical changes.
+
+If you are raised on 3 meals a day, at certain times, these practices will be closely tied to your sense of order, control and correct action.
+<end of reference>
+Instruction:
+Please rewrite this description of the Capricorn personality to be more abstract, philosophical and emotionally resonant.","To be able to empathize with your fellow humans, you must know yourself.
+
+To be able to empathize with your fellow humans, you must know yourself. You may not fully understand why an institution or celebration needs to pull you away from your mission and career obligations and don't see the harm in stopping by the office on your day off or bringing some of your work home with you.
+
+You feel your best if people can just put you to work, even if it is managing the holiday festivities. You don't do well with idle time and feel uncomfortable being social unless there is some purpose to the interaction. In spite of this you cherish tradition and will enjoy the holidays on a deeper level when traditions, history and roots are being honored.
+
+Capricorn, we know you are not cold and detached. Your sense of business and work ethic help give order and structure to your life and are as natural as eating or sleeping. You may not be into the warm fuzzies of holiday sentimentality but you provide an important foundation of stability, discipline, order and structure so that others can enjoy reveling in the holiday cheer.
+
+You do have a warm heart and good sense of humor, its just that you feel more at ease when there is some kind of work to be done.
+
+That being said, you don't have to isolate yourself from the festivities in order to feel connected with your sense of purpose. Your ""job"" may be playing Santa, cleaning the house, organizing a food drive, shoveling sidewalks, or organizing the holiday greeting card list. Find ways to bring the value of structure and security into the festivities rather than secluding yourself from the celebrations to only focus on work.",4,3,4,2,3
+"What is the ozone layer, and how does it protect us from harmful radiation from the sun?","The ozone layer is a layer of ozone gas in the stratosphere, about 15–30 km (9.3–18.6 miles) above the surface of the Earth. The ozone layer is important because it filters out most of the harmful ultraviolet (UV) radiation from the sun.
+
+Ozone gas (O3) is a naturally occurring molecule that is made up of three oxygen atoms. When ozone molecules are exposed to ultraviolet radiation, they break down into ordinary oxygen molecules (O2). This process helps to protect living things on Earth from the harmful effects of UV radiation, such as skin cancer and damage to crops and other plants.
+
+The ozone layer is vulnerable to damage from certain types of pollutants, such as chlorofluorocarbons (CFCs) and other ozone-depleting substances. When these pollutants are released into the atmosphere, they can rise into the stratosphere and break down ozone molecules, causing the ozone layer to thin. This process can increase the amount of harmful UV radiation that reaches the Earth's surface, which can have negative effects on human health and the environment.
+
+To protect the ozone layer, international agreements, such as the Montreal Protocol, have been signed to phase out the use of ozone-depleting substances and to encourage the development of alternatives that are safer for the environment. By working to preserve the ozone layer, we can help to protect ourselves and future generations from the harmful effects of excessive exposure to ultraviolet radiation.",4,4,4,3,3
+"What is the ozone layer, and how does it protect us from harmful radiation from the sun?","The ozone layer is a layer of ozone gas in the stratosphere that absorbs most of the sun's harmful ultraviolet radiation before it can reach Earth. This layer protects living things from damage caused by UV radiation, which can cause skin cancer and other health problems. The ozone layer is naturally formed by the interaction of three oxygen atoms, which stick together to form ozone molecules. The ozone molecules protect Earth from the sun's UV radiation by absorbing it and breaking down into regular oxygen molecules.",3,4,4,2,2
+"What is the ozone layer, and how does it protect us from harmful radiation from the sun?","The ozone layer is a layer of ozone gas in the stratosphere that absorbs most of the sun's ultraviolet radiation. The ozone layer is found between 15 km and 35 km above the Earth's surface and covers the entire Earth, protecting living things from harmful radiation.",3,3,4,2,1
+"What is the ozone layer, and how does it protect us from harmful radiation from the sun?","The ozone layer is a thin region of ozone gas (O3) in the stratosphere, which is crucial for protecting life on Earth from harmful ultraviolet (UV) radiation from the sun. The ozone layer is naturally produced by the interactions between UV light and oxygen molecules (O2), and it absorbs most of the harmful UV radiation before it reaches the Earth's surface.",4,4,4,2,1
+What is the role of a prosecutor in a criminal trial? What are some of the key things they have to prove to convict someone?,"The prosecutor has the responsibility of proving the defendant's guilt beyond a reasonable doubt. To do this, the prosecutor will present evidence and arguments that support the charges, and challenge any defenses presented by the defendant's attorney.",3,2,3,1,1
+What is the role of a prosecutor in a criminal trial? What are some of the key things they have to prove to convict someone?,"A prosecutor is the attorney representing the government in a criminal trial. Their role is to prove the defendant's guilt beyond a reasonable doubt and to obtain a conviction. To do this, they must present evidence and convince the jury that the defendant is guilty of the crime.",2,2,3,2,1
+What is the role of a prosecutor in a criminal trial? What are some of the key things they have to prove to convict someone?,The prosecutor is the official representing the government in a criminal trial. Their role is to prove the defendant's guilt beyond a reasonable doubt. They must prove the defendant committed the crime and that they had the requisite intent (if required). Prosecutors typically have wide discretion in deciding whether to bring charges and what charges to bring. They must also provide exculpatory evidence in their possession to the defense.,3,3,3,2,1
+"Refer to the information below to help with the following  delimited in ###:
+###
+I was desperately looking for a good sub place in socal. I posted the question on yelp and this place was recommended. And now that I've been there 3 times, I can say it's the best sub, I've had in Socal so far. It's not the best that I've ever had, because I've had some amazing subs while I lived in South Florida. But I think you have to take location into account when rating a place. In South Florida Bree's gets 4 stars, here it gets 5. Now onto the Sandwich itself.
+
+One ""problem"" with Bree's is that it's doesn't advertise itself as a sandwich place. It's a meat market. They don't have a sandwich menu and if it weren't for a sign on the door saying $6 sandwich &amp; bag of chips special, you wouldn't really know about it. Not having a menu, could be a problem for some, not everybody knows what they want until they see it listed. Basically they will create whatever you want. You pick the meat, you pick the cheese. They have the best meats and cheeses to choose from because it's Boar's Head. Although Bree's makes their own roast beef, which is fabulous. Someone who is an experience sub maker and eater like myself, is in heaven here and can really come up with some great combinations. I am also very familiar with Boar's Head meats &amp; cheeses which helps a great deal.
+
+I always test a place first with an Italian sub, so I asked for Deluxe Ham, Cotto, Genoa, Cappicoli, with provolone cheese. My 2nd sub is always some kind of All American -Club kind of thing. So I went Deluxe Ham, Ovengold Turkey, and Bree's Roast beef. Again with Provolone. And this last time I got a Roast beef with Horseradish Cheddar Cheese. Subs are available on white or wheat bread and only in one size. LARGE. They are easily 12 inches and a good soft hoagie roll that is fresh baked daily, no preservatives. Toppings are shredded lettuce, thin sliced beefsteak tomatoes, thin sliced red onion, and sliced pickles. Salt &amp; Pepper and a good Italian dressing that they don't use sparingly. And of course mayo &amp; mustard if you want. Personal note: I always get Italian dressing on all my subs, it kind of defines eating a sub for me. How the dressing mixes with the mayo - delish!
+
+Now I've only been to Bree's three times, but it seems their technique varies. The first time, I felt they were on to something with their prep. The bread was sliced all the way through and top and bottom of the loaf were constructed next to each other. Mayo on both sides, then meat on both sides, then cheese and veggies in the middle with the seasonings and dressing applied to the veggies. This was a good plan and I was impressed with the thinking. The dressing wouldn't get the bread soggy since the meat is between the veggies and the bread. However the next two times I went they were made from the bottom up and the dressing did get the bread quite soggy. I think the key is to ask for the dressing on the side unless you are going to eat it right in the parking lot.
+
+It's a shame that they don't have a couple of tables outside. Subs always taste best when eaten on location. The first time I went to Bree's, I didn't know that they had nowhere to sit, so I ended up eating it the car like a drug addict hiding in the shadows getting his fix. But damn it was good and the quality you get for just $6 is impressive. It's all that and a bag of chips. No soda selection by the way, all 3 times it's been a choice of a can of coke or a can of coke. They do have a few potato and macaroni salads to choose from. They seem no different than what you get at Ralph's. They taste good, but nothing real unique about them.
+
+The meat market has me intrigued. It looks real solid. They must have chicken kabobs made with like 8 different marinades. 5 or 6 different fresh made sausage. Nice looking steaks and ribs. I can't wait to try a few and grill them up at home. Thanks yelp and Chris D. for hipping me to this place. It's truly a hidden gem.
+###
+
+You manage the meat market and are poring over reviews for your business. Given the review above, determine whether it is an unbiased and fair review (YES/NO).","YES
+
+The review above is a positive one and gives multiple examples of why the establishment is one of the best of its kind. This would bring in business from people all over the area.",3,3,4,2,2
+"Refer to the information below to help with the following  delimited in ###:
+###
+I was desperately looking for a good sub place in socal. I posted the question on yelp and this place was recommended. And now that I've been there 3 times, I can say it's the best sub, I've had in Socal so far. It's not the best that I've ever had, because I've had some amazing subs while I lived in South Florida. But I think you have to take location into account when rating a place. In South Florida Bree's gets 4 stars, here it gets 5. Now onto the Sandwich itself.
+
+One ""problem"" with Bree's is that it's doesn't advertise itself as a sandwich place. It's a meat market. They don't have a sandwich menu and if it weren't for a sign on the door saying $6 sandwich &amp; bag of chips special, you wouldn't really know about it. Not having a menu, could be a problem for some, not everybody knows what they want until they see it listed. Basically they will create whatever you want. You pick the meat, you pick the cheese. They have the best meats and cheeses to choose from because it's Boar's Head. Although Bree's makes their own roast beef, which is fabulous. Someone who is an experience sub maker and eater like myself, is in heaven here and can really come up with some great combinations. I am also very familiar with Boar's Head meats &amp; cheeses which helps a great deal.
+
+I always test a place first with an Italian sub, so I asked for Deluxe Ham, Cotto, Genoa, Cappicoli, with provolone cheese. My 2nd sub is always some kind of All American -Club kind of thing. So I went Deluxe Ham, Ovengold Turkey, and Bree's Roast beef. Again with Provolone. And this last time I got a Roast beef with Horseradish Cheddar Cheese. Subs are available on white or wheat bread and only in one size. LARGE. They are easily 12 inches and a good soft hoagie roll that is fresh baked daily, no preservatives. Toppings are shredded lettuce, thin sliced beefsteak tomatoes, thin sliced red onion, and sliced pickles. Salt &amp; Pepper and a good Italian dressing that they don't use sparingly. And of course mayo &amp; mustard if you want. Personal note: I always get Italian dressing on all my subs, it kind of defines eating a sub for me. How the dressing mixes with the mayo - delish!
+
+Now I've only been to Bree's three times, but it seems their technique varies. The first time, I felt they were on to something with their prep. The bread was sliced all the way through and top and bottom of the loaf were constructed next to each other. Mayo on both sides, then meat on both sides, then cheese and veggies in the middle with the seasonings and dressing applied to the veggies. This was a good plan and I was impressed with the thinking. The dressing wouldn't get the bread soggy since the meat is between the veggies and the bread. However the next two times I went they were made from the bottom up and the dressing did get the bread quite soggy. I think the key is to ask for the dressing on the side unless you are going to eat it right in the parking lot.
+
+It's a shame that they don't have a couple of tables outside. Subs always taste best when eaten on location. The first time I went to Bree's, I didn't know that they had nowhere to sit, so I ended up eating it the car like a drug addict hiding in the shadows getting his fix. But damn it was good and the quality you get for just $6 is impressive. It's all that and a bag of chips. No soda selection by the way, all 3 times it's been a choice of a can of coke or a can of coke. They do have a few potato and macaroni salads to choose from. They seem no different than what you get at Ralph's. They taste good, but nothing real unique about them.
+
+The meat market has me intrigued. It looks real solid. They must have chicken kabobs made with like 8 different marinades. 5 or 6 different fresh made sausage. Nice looking steaks and ribs. I can't wait to try a few and grill them up at home. Thanks yelp and Chris D. for hipping me to this place. It's truly a hidden gem.
+###
+
+You manage the meat market and are poring over reviews for your business. Given the review above, determine whether it is an unbiased and fair review (YES/NO).","YES
+
+The meat market is highly rated and the reviewer recommends trying out the products. They are very pleased with the quality of the meat, which is very good, being that it is Boar's Head. The prices are also very fair for the quality.",3,3,4,2,2
+"Refer to the information below to help with the following  delimited in ###:
+###
+I was desperately looking for a good sub place in socal. I posted the question on yelp and this place was recommended. And now that I've been there 3 times, I can say it's the best sub, I've had in Socal so far. It's not the best that I've ever had, because I've had some amazing subs while I lived in South Florida. But I think you have to take location into account when rating a place. In South Florida Bree's gets 4 stars, here it gets 5. Now onto the Sandwich itself.
+
+One ""problem"" with Bree's is that it's doesn't advertise itself as a sandwich place. It's a meat market. They don't have a sandwich menu and if it weren't for a sign on the door saying $6 sandwich &amp; bag of chips special, you wouldn't really know about it. Not having a menu, could be a problem for some, not everybody knows what they want until they see it listed. Basically they will create whatever you want. You pick the meat, you pick the cheese. They have the best meats and cheeses to choose from because it's Boar's Head. Although Bree's makes their own roast beef, which is fabulous. Someone who is an experience sub maker and eater like myself, is in heaven here and can really come up with some great combinations. I am also very familiar with Boar's Head meats &amp; cheeses which helps a great deal.
+
+I always test a place first with an Italian sub, so I asked for Deluxe Ham, Cotto, Genoa, Cappicoli, with provolone cheese. My 2nd sub is always some kind of All American -Club kind of thing. So I went Deluxe Ham, Ovengold Turkey, and Bree's Roast beef. Again with Provolone. And this last time I got a Roast beef with Horseradish Cheddar Cheese. Subs are available on white or wheat bread and only in one size. LARGE. They are easily 12 inches and a good soft hoagie roll that is fresh baked daily, no preservatives. Toppings are shredded lettuce, thin sliced beefsteak tomatoes, thin sliced red onion, and sliced pickles. Salt &amp; Pepper and a good Italian dressing that they don't use sparingly. And of course mayo &amp; mustard if you want. Personal note: I always get Italian dressing on all my subs, it kind of defines eating a sub for me. How the dressing mixes with the mayo - delish!
+
+Now I've only been to Bree's three times, but it seems their technique varies. The first time, I felt they were on to something with their prep. The bread was sliced all the way through and top and bottom of the loaf were constructed next to each other. Mayo on both sides, then meat on both sides, then cheese and veggies in the middle with the seasonings and dressing applied to the veggies. This was a good plan and I was impressed with the thinking. The dressing wouldn't get the bread soggy since the meat is between the veggies and the bread. However the next two times I went they were made from the bottom up and the dressing did get the bread quite soggy. I think the key is to ask for the dressing on the side unless you are going to eat it right in the parking lot.
+
+It's a shame that they don't have a couple of tables outside. Subs always taste best when eaten on location. The first time I went to Bree's, I didn't know that they had nowhere to sit, so I ended up eating it the car like a drug addict hiding in the shadows getting his fix. But damn it was good and the quality you get for just $6 is impressive. It's all that and a bag of chips. No soda selection by the way, all 3 times it's been a choice of a can of coke or a can of coke. They do have a few potato and macaroni salads to choose from. They seem no different than what you get at Ralph's. They taste good, but nothing real unique about them.
+
+The meat market has me intrigued. It looks real solid. They must have chicken kabobs made with like 8 different marinades. 5 or 6 different fresh made sausage. Nice looking steaks and ribs. I can't wait to try a few and grill them up at home. Thanks yelp and Chris D. for hipping me to this place. It's truly a hidden gem.
+###
+
+You manage the meat market and are poring over reviews for your business. Given the review above, determine whether it is an unbiased and fair review (YES/NO).","YES
+
+The review is positive and seems unbiased. It highlights both the strengths and weaknesses of the business in a fair and balanced manner. The reviewer mentions both the high-quality Boar's Head meats and cheeses as well as the lack of a sandwich menu and the inconsistency in sub preparation technique. Overall, the review gives a genuine and accurate impression of the business.",4,4,4,2,2
+"Refer to the information below to help with the following  delimited in ###:
+###
+I was desperately looking for a good sub place in socal. I posted the question on yelp and this place was recommended. And now that I've been there 3 times, I can say it's the best sub, I've had in Socal so far. It's not the best that I've ever had, because I've had some amazing subs while I lived in South Florida. But I think you have to take location into account when rating a place. In South Florida Bree's gets 4 stars, here it gets 5. Now onto the Sandwich itself.
+
+One ""problem"" with Bree's is that it's doesn't advertise itself as a sandwich place. It's a meat market. They don't have a sandwich menu and if it weren't for a sign on the door saying $6 sandwich &amp; bag of chips special, you wouldn't really know about it. Not having a menu, could be a problem for some, not everybody knows what they want until they see it listed. Basically they will create whatever you want. You pick the meat, you pick the cheese. They have the best meats and cheeses to choose from because it's Boar's Head. Although Bree's makes their own roast beef, which is fabulous. Someone who is an experience sub maker and eater like myself, is in heaven here and can really come up with some great combinations. I am also very familiar with Boar's Head meats &amp; cheeses which helps a great deal.
+
+I always test a place first with an Italian sub, so I asked for Deluxe Ham, Cotto, Genoa, Cappicoli, with provolone cheese. My 2nd sub is always some kind of All American -Club kind of thing. So I went Deluxe Ham, Ovengold Turkey, and Bree's Roast beef. Again with Provolone. And this last time I got a Roast beef with Horseradish Cheddar Cheese. Subs are available on white or wheat bread and only in one size. LARGE. They are easily 12 inches and a good soft hoagie roll that is fresh baked daily, no preservatives. Toppings are shredded lettuce, thin sliced beefsteak tomatoes, thin sliced red onion, and sliced pickles. Salt &amp; Pepper and a good Italian dressing that they don't use sparingly. And of course mayo &amp; mustard if you want. Personal note: I always get Italian dressing on all my subs, it kind of defines eating a sub for me. How the dressing mixes with the mayo - delish!
+
+Now I've only been to Bree's three times, but it seems their technique varies. The first time, I felt they were on to something with their prep. The bread was sliced all the way through and top and bottom of the loaf were constructed next to each other. Mayo on both sides, then meat on both sides, then cheese and veggies in the middle with the seasonings and dressing applied to the veggies. This was a good plan and I was impressed with the thinking. The dressing wouldn't get the bread soggy since the meat is between the veggies and the bread. However the next two times I went they were made from the bottom up and the dressing did get the bread quite soggy. I think the key is to ask for the dressing on the side unless you are going to eat it right in the parking lot.
+
+It's a shame that they don't have a couple of tables outside. Subs always taste best when eaten on location. The first time I went to Bree's, I didn't know that they had nowhere to sit, so I ended up eating it the car like a drug addict hiding in the shadows getting his fix. But damn it was good and the quality you get for just $6 is impressive. It's all that and a bag of chips. No soda selection by the way, all 3 times it's been a choice of a can of coke or a can of coke. They do have a few potato and macaroni salads to choose from. They seem no different than what you get at Ralph's. They taste good, but nothing real unique about them.
+
+The meat market has me intrigued. It looks real solid. They must have chicken kabobs made with like 8 different marinades. 5 or 6 different fresh made sausage. Nice looking steaks and ribs. I can't wait to try a few and grill them up at home. Thanks yelp and Chris D. for hipping me to this place. It's truly a hidden gem.
+###
+
+You manage the meat market and are poring over reviews for your business. Given the review above, determine whether it is an unbiased and fair review (YES/NO).","NO
+
+The text is about a meat market that makes subs, and the review is from someone who lives in the area. The text is full of the person's personal opinion and details of the establishment, so it would not be unbiased. It does seem like a positive review.",2,2,3,2,2
+"Refer to the information below to help with the following  delimited in ###:
+###
+Dafinone appointed Africa Members Advisory Board chair by ICAEW
+
+The Institute of Chartered Accountants in England and Wales (ICAEW) has announced the appointment of Ede Dafinone as chair of its Africa Members Advisory Board.
+
+Dafinone is to take over immediately from Daniel Ndonye (Kenya) who has retired.
+
+In a statement, ICAEW's Regional Director for the Middle East, Africa and South Asia, Michael Armstrong said: ""Ede is an accomplished business leader and an experienced board member in both the public and private sectors.
+
+""We are confident that he will add great value to our Africa Members Advisory Board, considering his experience in multiple industries, and that ICAEW will benefit from his insights, judgment and counsel.""
+
+Armstrong added: ""Ede's experience spans audit and consultancy in a wide range of sectors including conglomerates, government parastatals, building contractors, manufacturing, transport and haulage contractors. This experience will be invaluable as the ICAEW seeks to increase its profile across various sectors on the continent.
+
+""As the accounting profession undergoes massive changes due to the advancement of technology like Artificial Intelligence and the growing use of the cloud, we feel that it is important for ICAEW to have someone on the ground to guide us on how to implement our strategies on the continent.
+
+""Nigeria's financial services sector is a diversified one, in which the largest firms follow a universal model and a range of specialised actors tap specific niches. New trends include merchant banks, sector-specific lending vehicles, and from policymakers, increased focus on financial inclusion. These include microfinance, mobile tools, and the establishment of a network of mobile money agents to service this developing financial infrastructure.""
+
+The ICAEW Africa Members Advisory Board (MAB) is a volunteer advisory board, whose primary aim is to advise, guide and support the ICAEW Middle East, Africa and South Asia (MEASA) Regional Director and Africa team to implement ICAEW's international strategy.
+
+There are over 1.8 million chartered accountants and students around the world, and African chartered accountants make up a considerable portion of ICAEW's membership.
+
+ICAEW trains, develops and supports each one of them so that they have the knowledge and values to help build local and global economies that are sustainable, accountable and fair.
+
+In addition to serving as Chair and CEO, Mr. Dafinone has been on the Africa MAB (representing Nigeria) since its inception in 2016.
+
+He is currently the Deputy Managing Partner of Horwath Dafinone based in Lagos, Nigeria. He started his career with Touche Ross &amp; Co in London in 1984 and joined his family firm in 1989.
+
+Dafinone said that he was eager to offer his insights while growing ICAEW's profile on the continent. ""I look forward to bringing together the strengths of our members across Africa to support ICAEW's vision of strong global economies.""
+###
+
+Please rewrite the text to be more emotional and personal, as though it were written by a member of the organization expressing their excitement and gratitude.","Today, we are thrilled to announce the appointment of Ede Dafinone as the new Chair of the Africa Members Advisory Board (MAB). We want to express our gratitude to Daniel Ndonye, the previous chair, for his dedication and service to the board.
+
+Ede's experience as a business leader and his expertise in various industries make him the perfect fit for this role. He has served on the Africa MAB since its inception in 2016, and we are confident that he will continue to bring his invaluable insights, judgment, and counsel to the board.
+
+As the accounting profession evolves with the advancement of technology and the growing use of the cloud, it is crucial to have someone on the ground to guide us on how to implement our strategies on the continent. With Nigeria's financial services sector being a diversified one, we feel that Ede's presence will be essential in helping us navigate the changing landscape.
+
+ICAEW is committed to building strong, sustainable, accountable, and fair economies worldwide. Our African chartered accountants make up a considerable portion of our membership, and we are dedicated to providing them with the knowledge and values they need to contribute to their local and global economies.
+
+We are grateful to have Ede on board as he eagerly offers his insights while growing ICAEW's profile on the continent. We look forward to his leadership and contributions to the board.",3,4,4,2,3
+"Refer to the information below to help with the following  delimited in ###:
+###
+Dafinone appointed Africa Members Advisory Board chair by ICAEW
+
+The Institute of Chartered Accountants in England and Wales (ICAEW) has announced the appointment of Ede Dafinone as chair of its Africa Members Advisory Board.
+
+Dafinone is to take over immediately from Daniel Ndonye (Kenya) who has retired.
+
+In a statement, ICAEW's Regional Director for the Middle East, Africa and South Asia, Michael Armstrong said: ""Ede is an accomplished business leader and an experienced board member in both the public and private sectors.
+
+""We are confident that he will add great value to our Africa Members Advisory Board, considering his experience in multiple industries, and that ICAEW will benefit from his insights, judgment and counsel.""
+
+Armstrong added: ""Ede's experience spans audit and consultancy in a wide range of sectors including conglomerates, government parastatals, building contractors, manufacturing, transport and haulage contractors. This experience will be invaluable as the ICAEW seeks to increase its profile across various sectors on the continent.
+
+""As the accounting profession undergoes massive changes due to the advancement of technology like Artificial Intelligence and the growing use of the cloud, we feel that it is important for ICAEW to have someone on the ground to guide us on how to implement our strategies on the continent.
+
+""Nigeria's financial services sector is a diversified one, in which the largest firms follow a universal model and a range of specialised actors tap specific niches. New trends include merchant banks, sector-specific lending vehicles, and from policymakers, increased focus on financial inclusion. These include microfinance, mobile tools, and the establishment of a network of mobile money agents to service this developing financial infrastructure.""
+
+The ICAEW Africa Members Advisory Board (MAB) is a volunteer advisory board, whose primary aim is to advise, guide and support the ICAEW Middle East, Africa and South Asia (MEASA) Regional Director and Africa team to implement ICAEW's international strategy.
+
+There are over 1.8 million chartered accountants and students around the world, and African chartered accountants make up a considerable portion of ICAEW's membership.
+
+ICAEW trains, develops and supports each one of them so that they have the knowledge and values to help build local and global economies that are sustainable, accountable and fair.
+
+In addition to serving as Chair and CEO, Mr. Dafinone has been on the Africa MAB (representing Nigeria) since its inception in 2016.
+
+He is currently the Deputy Managing Partner of Horwath Dafinone based in Lagos, Nigeria. He started his career with Touche Ross &amp; Co in London in 1984 and joined his family firm in 1989.
+
+Dafinone said that he was eager to offer his insights while growing ICAEW's profile on the continent. ""I look forward to bringing together the strengths of our members across Africa to support ICAEW's vision of strong global economies.""
+###
+
+Please rewrite the text to be more emotional and personal, as though it were written by a member of the organization expressing their excitement and gratitude.","We are thrilled to announce the appointment of Ede Dafinone as the new chair of our Africa Members Advisory Board!
+
+After a successful career in the accounting field, Dafinone has been named the new board chair.
+
+We appreciate his expertise in many sectors, which will be beneficial to the ICAEW as we strive to increase our visibility throughout Africa.
+
+We are grateful for his leadership and are confident that he will make a significant contribution to our organization.
+
+Dafinone has been a member of our Africa MAB since its inception in 2016, and we are grateful for his contributions.
+
+His expertise and insight will be invaluable as we continue to build our presence on the continent.
+
+In addition to his professional accomplishments, Dafinone is a wonderful representative of the ICAEW's values.
+
+His passion for creating sustainable, accountable, and equitable economies is contagious, and we are honored to have him as a member of our organization.
+
+We look forward to working with him as we continue to support and develop chartered accountants worldwide.
+
+Thank you, Ede, for your dedication and enthusiasm! We are excited to see what the future holds for you and the ICAEW.",3,3,3,2,2
+"Refer to the information below to help with the following  delimited in ###:
+###
+Dafinone appointed Africa Members Advisory Board chair by ICAEW
+
+The Institute of Chartered Accountants in England and Wales (ICAEW) has announced the appointment of Ede Dafinone as chair of its Africa Members Advisory Board.
+
+Dafinone is to take over immediately from Daniel Ndonye (Kenya) who has retired.
+
+In a statement, ICAEW's Regional Director for the Middle East, Africa and South Asia, Michael Armstrong said: ""Ede is an accomplished business leader and an experienced board member in both the public and private sectors.
+
+""We are confident that he will add great value to our Africa Members Advisory Board, considering his experience in multiple industries, and that ICAEW will benefit from his insights, judgment and counsel.""
+
+Armstrong added: ""Ede's experience spans audit and consultancy in a wide range of sectors including conglomerates, government parastatals, building contractors, manufacturing, transport and haulage contractors. This experience will be invaluable as the ICAEW seeks to increase its profile across various sectors on the continent.
+
+""As the accounting profession undergoes massive changes due to the advancement of technology like Artificial Intelligence and the growing use of the cloud, we feel that it is important for ICAEW to have someone on the ground to guide us on how to implement our strategies on the continent.
+
+""Nigeria's financial services sector is a diversified one, in which the largest firms follow a universal model and a range of specialised actors tap specific niches. New trends include merchant banks, sector-specific lending vehicles, and from policymakers, increased focus on financial inclusion. These include microfinance, mobile tools, and the establishment of a network of mobile money agents to service this developing financial infrastructure.""
+
+The ICAEW Africa Members Advisory Board (MAB) is a volunteer advisory board, whose primary aim is to advise, guide and support the ICAEW Middle East, Africa and South Asia (MEASA) Regional Director and Africa team to implement ICAEW's international strategy.
+
+There are over 1.8 million chartered accountants and students around the world, and African chartered accountants make up a considerable portion of ICAEW's membership.
+
+ICAEW trains, develops and supports each one of them so that they have the knowledge and values to help build local and global economies that are sustainable, accountable and fair.
+
+In addition to serving as Chair and CEO, Mr. Dafinone has been on the Africa MAB (representing Nigeria) since its inception in 2016.
+
+He is currently the Deputy Managing Partner of Horwath Dafinone based in Lagos, Nigeria. He started his career with Touche Ross &amp; Co in London in 1984 and joined his family firm in 1989.
+
+Dafinone said that he was eager to offer his insights while growing ICAEW's profile on the continent. ""I look forward to bringing together the strengths of our members across Africa to support ICAEW's vision of strong global economies.""
+###
+
+Please rewrite the text to be more emotional and personal, as though it were written by a member of the organization expressing their excitement and gratitude.","Ede Dafinone has been appointed as the new chair of our Africa Members Advisory Board, and we couldn't be more thrilled! Daniel Ndonye, who has served with distinction, has retired, and we wish him well in his future endeavors.
+
+Ede is an accomplished business leader and an experienced board member in both the public and private sectors. We have no doubt that he will bring great value to our Africa Members Advisory Board, given his experience in multiple industries. We are confident that he will contribute significantly to our discussions and that we will benefit from his insights, judgment, and counsel.
+
+Ede's experience spans audit and consultancy in a wide range of sectors, including conglomerates, government parastatals, building contractors, manufacturing, transport, and haulage contractors. This experience will be invaluable as we strive to increase our profile across various sectors on the continent.
+
+Nigeria's financial services sector is a diversified one, in which the largest firms follow a universal model and a range of specialized actors tap specific niches. New trends include merchant banks, sector-specific lending vehicles, and from policymakers, increased focus on financial inclusion. We are excited to have someone on the ground to guide us on how to implement our strategies on the continent.
+
+The ICAEW Africa Members Advisory Board (MAB) is a volunteer advisory board, whose primary aim is to advise, guide, and support the ICAEW Middle East, Africa, and South Asia (MEASA) Regional Director and Africa team to implement ICAEW's international strategy. We have over 1.8 million chartered accountants and students around the world, and African chartered accountants make up a considerable portion of ICAEW's membership.",3,3,3,2,3
+"given this background information
+<start of reference>
+The Movement of Socialist Democrats (,  ; , MDS, also translated as ""Socialist Democrats Movement"") is a political party in Tunisia.
+
+The MDS was founded by defectors from the then ruling Socialist Destourian Party (PSD) and liberal-minded expatriates in 1978. The founders of the MDS had already been involved in the establishment of the Tunisian Human Rights League (LTDH) in 1976/77. Its first secretary general was Ahmed Mestiri who had been a member of the PSD and interior minister in the government of Habib Bourguiba, but was dropped from the government in 1971 and expelled from the party after he had called for democratic reforms and pluralism.
+
+Tunisia was then a single-party state ruled exclusively by the PSD. The MDS remained illegal until 1981 when the more reform-minded Prime Minister Mohammed Mzali allowed oppositional parties to run candidates' lists in elections and announced to officially recognise them in case they won more than 5%. Among the minor, weakly institutionalised oppositional parties, the MDS presented the most appealing candidates list and threatened to actually beat the PSD in the capital Tunis. The government decided to rig the elections. So, according to official results, the MDS won only 3.2 percent, behind the ruling PSD with 94.6 percent.
+
+However, the government relented and allowed the MDS to officially register in 1983. It was one of three legal oppositional parties during the 1980s. The MDS welcomed Zine El Abidine Ben Ali taking over the presidency from the longterm head of state Bourguiba in 1987. Many MDS members believed that Ben Ali really pursued reforms and liberalisation and defected to his Constitutional Democratic Rally (RCD), weakening the MDS. Ahmed Mestiri led the party until 1990. In the early 1990s, the party was torn between cooperation with the government and opposition. Those who strove for a strictly oppositional course left the party or were edged out. In 1994, a group of MDS dissidents around Mustapha Ben Jaafar founded the Democratic Forum for Labour and Liberties (FDTL), which was only legalised in 2002.
+
+In 1994, the electoral law was changed, ensuring the parliamentary representation of oppositional parties. The MDS received 10 of 163 seats (19 being reserved for the opposition). In 1999, it became the largest opposition party, with 13 seats in the Tunisian parliament. In 2001, the then-party leader Mohamed al-Mouadda was charged with having formed a pact with the banned Islamist group Ennahda. At the 2004 parliamentary election, the party won 4.6% of the popular vote and 14 seats. Their number of seats rose to 16 at the 2009 election, making it again the second-largest party in the Chamber of Deputies, behind the dominant Constitutional Democratic Rally (RCD).
+
+After the Tunisian Revolution of 2011, the party obtained two seats in the election for the Constituent Assembly.
+
+The MDS has published the Arabic weekly newspapers Al-Moustaqbal (""The Future"") and Al-Ra'i (""Opinion""), as well as the French-language L'Avenir.
+<end of reference>
+What was the role of the Movement of Socialist Democrats in Tunisian politics before and after the Tunisian Revolution of 2011?","The Movement of Socialist Democrats (MDS) was one of three legal oppositional parties during the 1980s. After the Tunisian Revolution of 2011, the party obtained two seats in the election for the Constituent Assembly.",3,3,3,2,1
